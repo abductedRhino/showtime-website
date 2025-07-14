@@ -64,7 +64,7 @@ Anschliessend konnten wir unser Spiel an einem Stand vorstellen.
 
 {{</section>}} 
 
-{{<image src="images/therme.png" alt="Alt text">}}
+{{<image src="images/therme.jpg" alt="Alt text">}}
 
 **Gameplay**
 
