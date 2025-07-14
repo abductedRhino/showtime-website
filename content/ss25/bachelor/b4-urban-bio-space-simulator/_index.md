@@ -5,7 +5,6 @@ weight = 0
 subtitle = "Ein serious game in zusammenarbeit mit food4future"
 
 claim = "Wir vermitteln Wissen von food4future über nachhaltig anbaubare Organismen, mit denen in engen, urbanen Räumen der Nahrungsbedarf der Stadtbevölkerung gedeckt werden kann."
-abstract = "aslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfv"
 
 # Properties for displaying the project in the project list
 card_image = ""
@@ -66,7 +65,11 @@ Anschliessend konnten wir unser Spiel an einem Stand vorstellen.
 
 {{<section title="Gameplay">}}
 
-{{<image src="images/therme.jpg" alt="Alt text">}}
+{{<image src="images/therme.jpg" alt="Die Therme in Bad Saarow als Modell.">}}
+
+{{<mediathek id="1428d89c9d57db88c64e8653789b76f7" title="Gameplay demo">}}
+{{<mediathek id="1428d89c9d57db88c64e8653789b76f7/70" title="Gameplay demo">}}
+{{<mediathek id="117e5ae717b582bdeac13d95e8fa2264" title="Our project demo">}}
 
 - Es können die verschiedenen Compartments zur Essensproduktion auf verfügbarem Raum platziert werden.
 - Der verfügbare Raum basiert auf simuliertem Wachstum der Stadt.
