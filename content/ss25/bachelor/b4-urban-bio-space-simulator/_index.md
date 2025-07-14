@@ -4,7 +4,8 @@ title = "Urban Bio Space Simulator"
 weight = 0
 subtitle = "Ein serious game in zusammenarbeit mit food4future"
 
-claim = "Wir vermittlen Wissen von food4future über nachhaltig anbaubare Organismen, mit welchen in engen, urbanen Räumen der Nahrungsbedarf der Stadtbevölkerung gedeckt werden kann."
+claim = "Wir vermitteln Wissen von food4future über nachhaltig anbaubare Organismen, mit denen in engen, urbanen Räumen der Nahrungsbedarf der Stadtbevölkerung gedeckt werden kann."
+abstract = "aslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfvaslkdfjlsakdjf aslkjdflksajdf ldsajflkasdjf alksjdflksafd saljdfksalkdjfv"
 
 # Properties for displaying the project in the project list
 card_image = ""
