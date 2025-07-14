@@ -54,9 +54,16 @@ demo_link = ""
     - Makroalgen
     - Halophyten
 
+{{</section>}} 
+
+{{<section title="Vortrag vor Fachpublikum">}}
+
+{{<image src="images/konsti.jpg" alt="Konstantin haellt einen Vortrag ueber unser Spiel.">}}
 Um unser Spiel weiter zu verbessern haben wir einen Vortrag im Rahmen einer food4future Veranstaltung gehalten.
 Anschliessend konnten wir unser Spiel an einem Stand vorstellen.
-{{<image src="images/konsti.jpg" alt="Alt text">}}
+
+{{</section>}} 
+
 {{<image src="images/therme.png" alt="Alt text">}}
 
 **Gameplay**
