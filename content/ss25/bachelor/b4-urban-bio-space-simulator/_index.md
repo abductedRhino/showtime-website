@@ -64,9 +64,9 @@ Anschliessend konnten wir unser Spiel an einem Stand vorstellen.
 
 {{</section>}} 
 
-{{<image src="images/therme.jpg" alt="Alt text">}}
+{{<section title="Gameplay">}}
 
-**Gameplay**
+{{<image src="images/therme.jpg" alt="Alt text">}}
 
 - Es können die verschiedenen Compartments zur Essensproduktion auf verfügbarem Raum platziert werden.
 - Der verfügbare Raum basiert auf simuliertem Wachstum der Stadt.
