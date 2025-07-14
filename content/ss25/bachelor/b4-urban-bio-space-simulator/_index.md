@@ -54,25 +54,16 @@ demo_link = ""
     - Makroalgen
     - Halophyten
 
+Um unser Spiel weiter zu verbessern haben wir einen Vortrag im Rahmen einer food4future Veranstaltung gehalten.
+Anschliessend konnten wir unser Spiel an einem Stand vorstellen.
+{{<image src="images/konsti.jpg" alt="Alt text">}}
+{{<image src="images/therme.png" alt="Alt text">}}
+
 **Gameplay**
 
 - Es können die verschiedenen Compartments zur Essensproduktion auf verfügbarem Raum platziert werden.
 - Der verfügbare Raum basiert auf simuliertem Wachstum der Stadt.
 - Der Nährstoffbedarf der wachsenden Bevölkerung wird mit den produzierten Gerichten gedeckt.
-
-{{</section>}} 
-
-{{<section title="Process & Tools">}}
-
-**Process**
-
-Je nach dem wie stressig es war: von Agiler Entwicklung bis [eXtreme Go Horse](https://brunomb.com/xgh/) war alles dabei.
-
-**Tools**
-
-- Unity
-- GitLab
-- gcloud
 
 {{</section>}} 
 
