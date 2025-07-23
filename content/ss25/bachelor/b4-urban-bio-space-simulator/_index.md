@@ -27,7 +27,7 @@ supervisor = [
 draft = false
 
 # website: if you have another project website
-website_link = "https://groups.google.com/g/biotopia-testers"
+website_link = ""
 
 # e.g. github
 source_link = ""
@@ -35,7 +35,7 @@ source_link = ""
 # link to a demo site / where your project is available.
 # it's ok if it's temporary / just for the showtime, 
 # just send a pr when you take the demo site down.
-demo_link = "https://play.google.com/apps/testing/com.abductedrhino.biotopia"
+demo_link = "https://groups.google.com/g/biotopia-testers"
 +++
 
 {{<section title="Ziel des Spiels">}}
